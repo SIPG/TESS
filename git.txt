@@ -7,3 +7,4 @@
 --> git remote add origin git@github.com:HarshaYeluru/MTG.git (### enough if you do for the first time. to push data to HarshaYeluru/MTG.git repo)
 
 --> git push -u origin master (### Pushes commited data to HarshaYeluru/MTG.git repo)#TESS
+#TESS
