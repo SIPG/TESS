@@ -1,0 +1,9 @@
+--> echo "# MTG" >> baseline.py (### replace MTG with your git repo name and baseline.py with your file)
+
+--> git add baseline.py		(### replace baseline.py with your filename)
+
+--> git commit -m "baseline.py"	(### replace baseline.py with the comment you want to give)
+
+--> git remote add origin git@github.com:HarshaYeluru/MTG.git (### enough if you do for the first time. to push data to HarshaYeluru/MTG.git repo)
+
+--> git push -u origin master (### Pushes commited data to HarshaYeluru/MTG.git repo)#TESS
